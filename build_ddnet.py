@@ -8,7 +8,7 @@ from scipy.spatial.distance import cdist
 from keras.optimizers import *
 from keras.models import Model
 from keras.layers import *
-from keras.layers.core import *
+from tensorflow.keras.layers import *
 from tensorflow.keras.callbacks import *
 from keras.layers.convolutional import *
 import tensorflow as tf
