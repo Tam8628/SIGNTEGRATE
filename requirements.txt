@@ -1,0 +1,4 @@
+tensorflow==2.7
+mediapipe==0.8.10
+protobuf==3.20.3
+keras==2.8
