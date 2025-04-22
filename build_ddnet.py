@@ -10,7 +10,7 @@ from keras.models import Model
 from keras.layers import *
 from tensorflow.keras.layers import *
 from tensorflow.keras.callbacks import *
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, etc.
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, etc.
 import tensorflow as tf
 
 #Initialize the setting
